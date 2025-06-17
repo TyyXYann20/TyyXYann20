@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tyy</h1>
 <h3 align="center">Data Engineering and Mobile Dev</h3>
-<img src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif" alt="Data Scene GIF" />
+<img src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif" alt="Data Scene GIF" height=300 />
 
 
 - 🌱 I’m currently learning **Golang**
