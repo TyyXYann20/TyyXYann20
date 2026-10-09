@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tyy</h1>
-<h3 align="center">Data Engineering and Mobile Dev</h3>
+<h3 align="center">Python and Web Dev</h3>
 <img src="https://cdn.dribbble.com/userupload/22227114/file/original-d1dff1c5d28f4206fe0382935e4c2d4a.gif" alt="Data Scene GIF"  />
 
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Next Js, Nest JS and Python**
+- 💬 Ask me about **React JS, Express JS and Python**
 
 - 📫 How to reach me **saiyannsic20@gmail.com**
 
